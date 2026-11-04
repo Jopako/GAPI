@@ -189,25 +189,40 @@ Tabela inicial para a equipe completar com as competências reais (1 = básico, 
 
 As regras RN11 a RN16 são sugestões nossas e devem ser validadas com o Gabinete.
 
-## 7. Interfaces do Sistema
+
+<div align="center"> 
+ 
+## Interfaces do Sistema
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
+
+
+
 
 ### Login 
 
 <img width="876" height="601" alt="image" src="https://github.com/user-attachments/assets/1dd679fe-3a77-4e82-b4de-3605121bd487" />#
 
+---
+
 ### Esqueci Minha Senha
 
 <img width="879" height="601" alt="image" src="https://github.com/user-attachments/assets/d48f2020-41fa-4087-a74c-a1b772753ee5" />
+
+---
 
 ### Home
 
 <img width="565" height="632" alt="image" src="https://github.com/user-attachments/assets/533efa34-c39a-4c1a-9163-d4c65556a1fd" />
 
+---
+
 ### 8. Prototipação Funcional e Navegável
 
 Protótipo com navegação entre as telas: [Abrir no Figma](https://www.figma.com/design/98fsUNQWJA50YcEdtiwYZJ/Princ%C3%ADpios-do-UI-Design?node-id=7-1405&t=u8BwYbM4Vpa56AZ1-1)
 
+---
+
 ### 9. Landing page de Apresentação
 
 <img width="672" height="754" alt="image" src="https://github.com/user-attachments/assets/e75a10a7-0b9d-4648-8448-026af03774c8" />
-
+ </div>
