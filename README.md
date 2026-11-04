@@ -16,7 +16,7 @@ Autores: João Paulo Kowalski, Julia Luzzi Baldissera, Samuel Castilho Pereira
 
 **Partes interessadas.** Direção Geral (DG), DAP, DEPE, Gabinete Institucional (principal operador), servidores e público externo.
 
-**Equipe.** João Paulo Kowalski, Julia Luzzi Baldissera e Samuel Castilho Pereira. Orientação: professor(a) responsável (preencher).
+**Equipe.** João Paulo Kowalski, Julia Luzzi Baldissera e Samuel Castilho Pereira. Orientação: professor Tiago L. Gonçalves.
 
 **Fases e cronograma sugerido**
 
