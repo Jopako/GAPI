@@ -185,10 +185,14 @@ As regras RN11 a RN16 são sugestões nossas e devem ser validadas com o Gabinet
 
 ## 7. Interfaces do Sistema
 
-Interfaces exigidas para todo projeto:
+### Login 
 
-- **a. Interface inicial de acesso:** campos de usuário e senha, botão Entrar e link "Esqueci minha senha".
-- **b. Interface de recuperação de senha:** campo de e-mail institucional, envio do link de redefinição e mensagem de confirmação.
-- **c. Interface Home:** menu de acesso lateral (Início, Solicitações, Portarias, Memorandos, Servidores, Relatórios, Sair), indicadores resumidos e lista de portarias recentes, com opções de menu variando conforme o perfil.
+<img width="876" height="601" alt="image" src="https://github.com/user-attachments/assets/1dd679fe-3a77-4e82-b4de-3605121bd487" />#
 
-As três telas estão implementadas no protótipo navegável (item 8), publicado junto com a landing page (item 9).
+### Esqueci Minha Senha
+
+<img width="879" height="601" alt="image" src="https://github.com/user-attachments/assets/d48f2020-41fa-4087-a74c-a1b772753ee5" />
+
+### Home
+
+<img width="565" height="632" alt="image" src="https://github.com/user-attachments/assets/533efa34-c39a-4c1a-9163-d4c65556a1fd" />
