@@ -196,3 +196,12 @@ As regras RN11 a RN16 são sugestões nossas e devem ser validadas com o Gabinet
 ### Home
 
 <img width="565" height="632" alt="image" src="https://github.com/user-attachments/assets/533efa34-c39a-4c1a-9163-d4c65556a1fd" />
+
+### 8. Prototipação Funcional e Navegável
+
+Protótipo com navegação entre as telas: [Abrir no Figma](https://www.figma.com/design/98fsUNQWJA50YcEdtiwYZJ/Princ%C3%ADpios-do-UI-Design?node-id=7-1405&t=u8BwYbM4Vpa56AZ1-1)
+
+### 9. Landing page de Apresentação
+
+<img width="672" height="754" alt="image" src="https://github.com/user-attachments/assets/e75a10a7-0b9d-4648-8448-026af03774c8" />
+
