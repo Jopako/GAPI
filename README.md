@@ -1,8 +1,14 @@
-# GAPI – Gestor de Portarias
+<div align="center"> 
+<img width="330" height="138" alt="Group 1 - GAPI branco" src="https://github.com/user-attachments/assets/882f3f99-aedd-48e8-b57c-7fc8760660d9" />
 
-Instituto Federal Catarinense – Campus Videira
 
-Autores: João Paulo Kowalski, Julia Luzzi Baldissera, Samuel Castilho Pereira
+<b>  Instituto Federal Catarinense – Campus Videira</b>  
+
+<b>Autores: João Paulo Kowalski, Julia Luzzi Baldissera, Samuel Castilho Pereira</b>
+
+ </div>
+
+
 
 ## 1. Plano de Projeto
 
