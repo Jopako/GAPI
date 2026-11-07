@@ -90,10 +90,10 @@
 Tabela inicial para a equipe completar com as competências reais (1 = básico, 5 = avançado).
 
 | Membro | Papel sugerido | Backend | Frontend | Banco de dados | UI/UX | Documentação | Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| João Paulo Kowalski | A definir | \_ | \_ | \_ | \_ | \_ | \_ |
-| Julia Luzzi Baldissera | A definir | \_ | \_ | \_ | \_ | \_ | \_ |
-| Samuel Castilho Pereira | A definir | \_ | \_ | \_ | \_ | \_ | \_ |
+| --- | --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **João Paulo Kowalski** | Backend | 4 | 2 | 4 | 2 | 3 | 4 |
+| **Julia Luzzi Baldissera** | UI/UX & Frontend | 2 | 4 | 2 | 4 | 4 | 3 |
+| **Samuel Castilho Pereira** | Fullstack & Documentação | 3 | 3 | 3 | 3 | 4 | 3 |
 
 **Papéis a distribuir:** Gerente de projeto / analista de requisitos; Desenvolvedor backend e banco de dados; Desenvolvedor frontend e designer de interface.
 
