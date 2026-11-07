@@ -87,17 +87,13 @@
 
 ## 3. Mapeamento de Talentos e Habilidades
 
-Tabela inicial para a equipe completar com as competências reais (1 = básico, 5 = avançado).
+(1 = básico, 5 = avançado).
 
 | Membro | Papel sugerido | Backend | Frontend | Banco de dados | UI/UX | Documentação | Gestão |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **João Paulo Kowalski** | Backend | 4 | 2 | 4 | 2 | 3 | 4 |
 | **Julia Luzzi Baldissera** | UI/UX & Frontend | 2 | 4 | 2 | 4 | 4 | 3 |
 | **Samuel Castilho Pereira** | Fullstack & Documentação | 3 | 3 | 3 | 3 | 4 | 3 |
-
-**Papéis a distribuir:** Gerente de projeto / analista de requisitos; Desenvolvedor backend e banco de dados; Desenvolvedor frontend e designer de interface.
-
-**Lacunas a observar:** integração com SIPAC, segurança e auditoria, e conhecimento do rito de portarias (suprir com apoio do Gabinete).
 
 ## 4. Critérios de Aceitação do Projeto
 
