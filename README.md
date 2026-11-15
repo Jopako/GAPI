@@ -196,7 +196,7 @@ As regras RN11 a RN16 são sugestões nossas e devem ser validadas com o Gabinet
 
 ### Login 
 
-<img width="876" height="601" alt="image" src="https://github.com/user-attachments/assets/1dd679fe-3a77-4e82-b4de-3605121bd487" />#
+<img width="876" height="601" alt="image" src="https://github.com/user-attachments/assets/1dd679fe-3a77-4e82-b4de-3605121bd487" />
 
 ---
 
